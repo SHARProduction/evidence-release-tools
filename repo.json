@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "evidence-release-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w11-221",
+      "slug": "evidence-package-manifest-builder",
+      "title": "Evidence Package Manifest Builder",
+      "title_ru": "Конструктор манифеста доказательств",
+      "family": "evidence_release",
+      "purpose": "Builds a deterministic manifest for public evidence files.",
+      "purpose_ru": "Создаёт детерминированный манифест файлов публичных доказательств.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w11-222",
+      "slug": "public-release-readiness-gate",
+      "title": "Public Release Readiness Gate",
+      "title_ru": "Контроль готовности публичного релиза",
+      "family": "evidence_release",
+      "purpose": "Checks licensing, privacy, accessibility, provenance and rollback gates.",
+      "purpose_ru": "Проверяет лицензии, приватность, доступность, происхождение и откат релиза.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}

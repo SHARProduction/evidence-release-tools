@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Evidence Package Manifest Builder and Public Release Readiness Gate"
+authors:
+  - name: "SHAR Production"
+url: "https://sharprod.com/"
+license: MIT
+version: 1.0.0
