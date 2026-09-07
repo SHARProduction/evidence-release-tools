@@ -1,0 +1,16 @@
+{
+  "gates": {
+    "license": true,
+    "privacy": true,
+    "accessibility": true,
+    "provenance": true,
+    "rollback": true
+  },
+  "required": [
+    "license",
+    "privacy",
+    "accessibility",
+    "provenance",
+    "rollback"
+  ]
+}
